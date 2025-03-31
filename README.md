@@ -15,7 +15,6 @@ npm test
 
 # Live demo:
 
-https://snack.expo.dev/@haojun1212/final-year-project
 
 # Side note
 I initially had over 50 commits on another repository, but because of trial and error with git commands, I accidentally deleted all my commits.
